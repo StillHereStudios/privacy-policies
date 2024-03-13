@@ -19,5 +19,5 @@ I hereby state, to the best of my knowledge, that I have not programmed this gam
 If you find a security vulnerability that has been inadvertently caused by this game, or have any questions regarding how it protects your privacy, please send me an email and I'll respond as soon as I can.
 
 Kind Regards,  
-John Flynn
+John Flynn  
 stillherestudiosnz@gmail.com
